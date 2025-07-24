@@ -40,8 +40,10 @@ To run this project, install the following Python packages:
 
 ```bash
 pip install -r requirements.txt
+```
 
-Key packages:
+
+## Key packages:
 	•	numpy
 	•	pandas
 	•	scikit-learn
